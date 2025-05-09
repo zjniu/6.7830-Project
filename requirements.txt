@@ -1,0 +1,14 @@
+celluloid
+igraph
+imageio
+jupyterlab
+matplotlib
+numpy
+pandas
+seaborn
+tensorflow
+tensorflow_probability
+tf-keras
+torch
+torchvision
+tqdm
